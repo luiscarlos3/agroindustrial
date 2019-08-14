@@ -1,0 +1,6 @@
+C:\Users\clockwork\Dropbox\c#\entrenamiento\agroindustrial_clase_sellada\agroindustrial_clase_sellada\bin\Debug\agroindustrial_clase_sellada.exe.config
+C:\Users\clockwork\Dropbox\c#\entrenamiento\agroindustrial_clase_sellada\agroindustrial_clase_sellada\bin\Debug\agroindustrial_clase_sellada.exe
+C:\Users\clockwork\Dropbox\c#\entrenamiento\agroindustrial_clase_sellada\agroindustrial_clase_sellada\bin\Debug\agroindustrial_clase_sellada.pdb
+C:\Users\clockwork\Dropbox\c#\entrenamiento\agroindustrial_clase_sellada\agroindustrial_clase_sellada\obj\Debug\agroindustrial_clase_sellada.csprojResolveAssemblyReference.cache
+C:\Users\clockwork\Dropbox\c#\entrenamiento\agroindustrial_clase_sellada\agroindustrial_clase_sellada\obj\Debug\agroindustrial_clase_sellada.exe
+C:\Users\clockwork\Dropbox\c#\entrenamiento\agroindustrial_clase_sellada\agroindustrial_clase_sellada\obj\Debug\agroindustrial_clase_sellada.pdb
